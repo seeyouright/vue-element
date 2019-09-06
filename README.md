@@ -1,4 +1,5 @@
 # vue-element
+<<<<<<< HEAD
 
 > A Vue.js project
 
@@ -28,3 +29,6 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+vue+element
+>>>>>>> 6016d02f16e745eb9ef709d8ef79630c2d569c9d
